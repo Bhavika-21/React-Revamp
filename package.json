@@ -1,0 +1,31 @@
+{
+  "name": "react-revamp",
+  "version": "1.0.0",
+  "description": "all about react",
+  "keywords": [
+    "react",
+    "reactjs"
+  ],
+  "homepage": "https://github.com/Bhavika-21/React-Revamp#readme",
+  "bugs": {
+    "url": "https://github.com/Bhavika-21/React-Revamp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhavika-21/React-Revamp.git"
+  },
+  "license": "ISC",
+  "author": "Bhavika Rathod",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "npx parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
